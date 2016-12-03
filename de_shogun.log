@@ -1,0 +1,579 @@
+
+
+
+materialPath: S:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\canof\Documents\GitHub\de_shogun\de_shogun.vmf
+Map revision 46
+Material not found!: /BLUE
+Patching WVT material: maps/de_shogun/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\canof\Documents\GitHub\de_shogun\de_shogun.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (50350 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 112 texinfos to 67
+Reduced 17 texdatas to 16 (394 bytes to 331)
+Writing C:\Users\canof\Documents\GitHub\de_shogun\de_shogun.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+reading c:\users\canof\documents\github\de_shogun\de_shogun.prt
+ 453 portalclusters
+1574 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8.
+
+
+materialPath: S:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.vmf
+Map revision 46
+Material not found!: /BLUE
+Patching WVT material: maps/de_shogun/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\canof\documents\github\de_shogun\de_shogun.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (50987 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 115 texinfos to 69
+Reduced 20 texdatas to 18 (485 bytes to 375)
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+reading c:\users\canof\documents\github\de_shogun\de_shogun.prt
+ 472 portalclusters
+1681 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 133 visible clusters (0.00%)
+Total clusters visible: 161937
+Average clusters visible: 343
+Building PAS...
+Average clusters audible: 472
+visdatasize:59014  compressed from 60416
+writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+1259 faces
+641514 square feet [92378032.00 square inches]
+13 Displacements
+20807 Square Feet [2996272.50 Square Inches]
+1259 patches before subdivision
+23261 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1704864, max 561
+transfer lists:  13.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(44039, 43726, 34395)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3237, 3133, 2471)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1045, 1012, 796)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(163, 159, 126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(56, 54, 43)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(11, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0054 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             984/65536        7872/524288   ( 1.5%) 
+planes                1240/65536       24800/1310720  ( 1.9%) 
+vertexes              1854/65536       22248/786432   ( 2.8%) 
+nodes                  786/65536       25152/2097152  ( 1.2%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               13/0            2288/0        ( 0.0%) 
+disp_verts             773/0           15460/0        ( 0.0%) 
+disp_tris             1184/0            2368/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       36664/0           36664/0        ( 0.0%) 
+faces                 1259/65536       70504/3670016  ( 1.9%) 
+hdr faces             1259/65536       70504/3670016  ( 1.9%) 
+origfaces              536/65536       30016/3670016  ( 0.8%) 
+facebrushes             40/0              80/0        ( 0.0%) 
+facebrushlists        1259/0            5036/0        ( 0.0%) 
+leaves                 790/65536       25280/2097152  ( 1.2%) 
+leaffaces             1487/65536        2974/131072   ( 2.3%) 
+leafbrushes            500/65536        1000/131072   ( 0.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8292/512000      33168/2048000  ( 1.6%) 
+edges                 4527/256000      18108/1024000  ( 1.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            145/32768        1450/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2271/65536        4542/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      973708/0        ( 0.0%) 
+visdata               [variable]       59014/16777216 ( 0.4%) 
+entdata               [variable]        1527/393216   ( 0.4%) 
+LDR ambient table      790/65536        3160/262144   ( 1.2%) 
+HDR ambient table      790/65536        3160/262144   ( 1.2%) 
+LDR leaf ambient       790/65536       22120/1835008  ( 1.2%) 
+HDR leaf ambient      3906/65536      109368/1835008  ( 6.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75267/0        ( 0.0%) 
+physics               [variable]       50987/4194304  ( 1.2%) 
+physics terrain       [variable]        2763/1048576  ( 0.3%) 
+
+Level flags = 1e
+
+Total triangle count: 3496
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+18 seconds elapsed
+
+
+
+materialPath: S:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.vmf
+Map revision 77
+Material not found!: /BLUE
+Patching WVT material: maps/de_shogun/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\canof\documents\github\de_shogun\de_shogun.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (64043 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 74
+Reduced 22 texdatas to 19 (533 bytes to 410)
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+reading c:\users\canof\documents\github\de_shogun\de_shogun.prt
+ 609 portalclusters
+2071 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 623 visible clusters (0.00%)
+Total clusters visible: 241640
+Average clusters visible: 396
+Building PAS...
+Average clusters audible: 608
+visdatasize:97034  compressed from 97440
+writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+1514 faces
+674606 square feet [97143304.00 square inches]
+8 Displacements
+17074 Square Feet [2458705.25 Square Inches]
+1514 patches before subdivision
+26538 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2142698, max 633
+transfer lists:  16.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(57943, 56815, 43845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5646, 5449, 4211)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(931, 884, 666)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(158, 149, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(29, 27, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                118/8192         1416/98304    ( 1.4%) 
+brushsides            1270/65536       10160/524288   ( 1.9%) 
+planes                1594/65536       31880/1310720  ( 2.4%) 
+vertexes              2390/65536       28680/786432   ( 3.6%) 
+nodes                 1017/65536       32544/2097152  ( 1.6%) 
+texinfos                74/12288        5328/884736   ( 0.6%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                8/0            1408/0        ( 0.0%) 
+disp_verts             648/0           12960/0        ( 0.0%) 
+disp_tris             1024/0            2048/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       28512/0           28512/0        ( 0.0%) 
+faces                 1514/65536       84784/3670016  ( 2.3%) 
+hdr faces             1514/65536       84784/3670016  ( 2.3%) 
+origfaces              617/65536       34552/3670016  ( 0.9%) 
+facebrushes             46/0              92/0        ( 0.0%) 
+facebrushlists        1514/0            6056/0        ( 0.0%) 
+leaves                1021/65536       32672/2097152  ( 1.6%) 
+leaffaces             1822/65536        3644/131072   ( 2.8%) 
+leafbrushes            663/65536        1326/131072   ( 1.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9979/512000      39916/2048000  ( 1.9%) 
+edges                 5506/256000      22024/1024000  ( 2.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            196/32768        1960/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3180/65536        6360/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1103920/0        ( 0.0%) 
+visdata               [variable]       97034/16777216 ( 0.6%) 
+entdata               [variable]        1561/393216   ( 0.4%) 
+LDR ambient table     1021/65536        4084/262144   ( 1.6%) 
+HDR ambient table     1021/65536        4084/262144   ( 1.6%) 
+LDR leaf ambient      1021/65536       28588/1835008  ( 1.6%) 
+HDR leaf ambient      4757/65536      133196/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/374      ( 0.3%) 
+pakfile               [variable]       92463/0        ( 0.0%) 
+physics               [variable]       64043/4194304  ( 1.5%) 
+physics terrain       [variable]        1574/1048576  ( 0.2%) 
+
+Level flags = 1e
+
+Total triangle count: 4294
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+22 seconds elapsed
+
+
+
+materialPath: S:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.vmf
+Map revision 79
+Material not found!: /BLUE
+Patching WVT material: maps/de_shogun/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\canof\documents\github\de_shogun\de_shogun.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63635 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 125 texinfos to 73
+Reduced 22 texdatas to 19 (533 bytes to 410)
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+reading c:\users\canof\documents\github\de_shogun\de_shogun.prt
+ 601 portalclusters
+2031 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 632 visible clusters (0.00%)
+Total clusters visible: 234741
+Average clusters visible: 390
+Building PAS...
+Average clusters audible: 600
+visdatasize:94443  compressed from 96160
+writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+33 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+1517 faces
+674319 square feet [97102056.00 square inches]
+8 Displacements
+17074 Square Feet [2458705.25 Square Inches]
+1517 patches before subdivision
+26347 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2116229, max 632
+transfer lists:  16.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(55087, 53958, 41551)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5559, 5366, 4144)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(922, 875, 659)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(158, 148, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(29, 27, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                117/8192         1404/98304    ( 1.4%) 
+brushsides            1264/65536       10112/524288   ( 1.9%) 
+planes                1594/65536       31880/1310720  ( 2.4%) 
+vertexes              2390/65536       28680/786432   ( 3.6%) 
+nodes                 1008/65536       32256/2097152  ( 1.5%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                8/0            1408/0        ( 0.0%) 
+disp_verts             648/0           12960/0        ( 0.0%) 
+disp_tris             1024/0            2048/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       28512/0           28512/0        ( 0.0%) 
+faces                 1517/65536       84952/3670016  ( 2.3%) 
+hdr faces             1517/65536       84952/3670016  ( 2.3%) 
+origfaces              613/65536       34328/3670016  ( 0.9%) 
+facebrushes             46/0              92/0        ( 0.0%) 
+facebrushlists        1517/0            6068/0        ( 0.0%) 
+leaves                1012/65536       32384/2097152  ( 1.5%) 
+leaffaces             1808/65536        3616/131072   ( 2.8%) 
+leafbrushes            663/65536        1326/131072   ( 1.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9986/512000      39944/2048000  ( 2.0%) 
+edges                 5505/256000      22020/1024000  ( 2.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            200/32768        2000/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3216/65536        6432/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1103484/0        ( 0.0%) 
+visdata               [variable]       94443/16777216 ( 0.6%) 
+entdata               [variable]        1561/393216   ( 0.4%) 
+LDR ambient table     1012/65536        4048/262144   ( 1.5%) 
+HDR ambient table     1012/65536        4048/262144   ( 1.5%) 
+LDR leaf ambient      1012/65536       28336/1835008  ( 1.5%) 
+HDR leaf ambient      4632/65536      129696/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/374      ( 0.3%) 
+pakfile               [variable]       92463/0        ( 0.0%) 
+physics               [variable]       63635/4194304  ( 1.5%) 
+physics terrain       [variable]        1574/1048576  ( 0.2%) 
+
+Level flags = 1e
+
+Total triangle count: 4311
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+21 seconds elapsed
+
+
+
+materialPath: S:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.vmf
+Map revision 80
+Patching WVT material: maps/de_shogun/ground/hr_g/hr_gravel_grass_001_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\canof\documents\github\de_shogun\de_shogun.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63621 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 123 texinfos to 72
+Reduced 21 texdatas to 18 (527 bytes to 404)
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+reading c:\users\canof\documents\github\de_shogun\de_shogun.prt
+ 601 portalclusters
+2031 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 632 visible clusters (0.00%)
+Total clusters visible: 234741
+Average clusters visible: 390
+Building PAS...
+Average clusters audible: 600
+visdatasize:94443  compressed from 96160
+writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+33 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+1517 faces
+674319 square feet [97102056.00 square inches]
+8 Displacements
+17074 Square Feet [2458705.25 Square Inches]
+1517 patches before subdivision
+26347 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2116229, max 632
+transfer lists:  16.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(55087, 53959, 41551)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5559, 5366, 4144)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(922, 875, 659)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(158, 148, 111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(29, 27, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                117/8192         1404/98304    ( 1.4%) 
+brushsides            1264/65536       10112/524288   ( 1.9%) 
+planes                1594/65536       31880/1310720  ( 2.4%) 
+vertexes              2390/65536       28680/786432   ( 3.6%) 
+nodes                 1008/65536       32256/2097152  ( 1.5%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                8/0            1408/0        ( 0.0%) 
+disp_verts             648/0           12960/0        ( 0.0%) 
+disp_tris             1024/0            2048/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       28512/0           28512/0        ( 0.0%) 
+faces                 1517/65536       84952/3670016  ( 2.3%) 
+hdr faces             1517/65536       84952/3670016  ( 2.3%) 
+origfaces              613/65536       34328/3670016  ( 0.9%) 
+facebrushes             46/0              92/0        ( 0.0%) 
+facebrushlists        1517/0            6068/0        ( 0.0%) 
+leaves                1012/65536       32384/2097152  ( 1.5%) 
+leaffaces             1808/65536        3616/131072   ( 2.8%) 
+leafbrushes            663/65536        1326/131072   ( 1.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9986/512000      39944/2048000  ( 2.0%) 
+edges                 5505/256000      22020/1024000  ( 2.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            200/32768        2000/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3216/65536        6432/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1103484/0        ( 0.0%) 
+visdata               [variable]       94443/16777216 ( 0.6%) 
+entdata               [variable]        1561/393216   ( 0.4%) 
+LDR ambient table     1012/65536        4048/262144   ( 1.5%) 
+HDR ambient table     1012/65536        4048/262144   ( 1.5%) 
+LDR leaf ambient      1012/65536       28336/1835008  ( 1.5%) 
+HDR leaf ambient      4632/65536      129696/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/374      ( 0.3%) 
+pakfile               [variable]       92463/0        ( 0.0%) 
+physics               [variable]       63621/4194304  ( 1.5%) 
+physics terrain       [variable]        1574/1048576  ( 0.2%) 
+
+Level flags = 1e
+
+Total triangle count: 4311
+Writing c:\users\canof\documents\github\de_shogun\de_shogun.bsp
+24 seconds elapsed
